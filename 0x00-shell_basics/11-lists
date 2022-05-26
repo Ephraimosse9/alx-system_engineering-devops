@@ -1,1 +1,2 @@
-hhgg
+#!/bin/bash
+ls -la .. ./boot
